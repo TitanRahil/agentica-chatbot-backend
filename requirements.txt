@@ -3,3 +3,4 @@ uvicorn
 google-generativeai
 python-dotenv
 pydantic
+httpx>=0.27.0
